@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Old Fashioned",
+    "ingredients": ["2 oz bourbon or rye whiskey", "2 dashes Angostura bitters", "1 sugar cube or 1 tsp sugar", "Orange peel for garnish"],
+    "method": "Muddle sugar and bitters in a rocks glass. Add whiskey and stir with ice. Garnish with an orange peel.",
+    "flavor_profile": "strong, whiskey-based"
+  },
+  {
+    "name": "Mojito",
+    "ingredients": ["2 oz white rum", "1 oz lime juice", "2 tsp sugar", "6 mint leaves", "Soda water"],
+    "method": "Muddle mint leaves with sugar and lime juice. Add rum, fill the glass with ice, top with soda water. Stir gently.",
+    "flavor_profile": "refreshing, minty"
+  },
+  {
+    "name": "Margarita",
+    "ingredients": ["2 oz tequila", "1 oz lime juice", "1 oz triple sec", "Salt for rim (optional)"],
+    "method": "Shake all ingredients with ice. Strain into a salt-rimmed glass. Garnish with a lime wedge.",
+    "flavor_profile": "tangy, citrusy"
+  },
+  {
+    "name": "Cosmopolitan",
+    "ingredients": ["1.5 oz vodka", "1 oz cranberry juice", "0.5 oz triple sec", "0.5 oz lime juice"],
+    "method": "Shake with ice. Strain into a chilled martini glass. Garnish with a lime twist.",
+    "flavor_profile": "fruity, sweet-tart"
+  }
+]
