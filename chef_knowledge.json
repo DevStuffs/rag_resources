@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Roasted Chicken with Lemon Butter",
+    "ingredients": ["1 whole chicken", "2 lemons", "3 tbsp butter", "Salt", "Pepper"],
+    "method": "Preheat oven to 400F (200C). Melt butter and mix with lemon juice. Season chicken with salt and pepper. Brush with lemon butter mixture. Roast for about 1 hour or until internal temperature reaches 165F.",
+    "category": "main dish"
+  },
+  {
+    "title": "Creamy Alfredo Pasta",
+    "ingredients": ["Pasta of choice", "2 tbsp butter", "1 cup heavy cream", "1 cup grated Parmesan cheese", "Garlic", "Salt", "Pepper"],
+    "method": "Boil pasta. Meanwhile, melt butter in a pan with garlic, then add cream. Stir and add Parmesan. Season with salt and pepper. Combine with pasta and serve.",
+    "category": "main dish"
+  },
+  {
+    "title": "Garden Salad with Balsamic Dressing",
+    "ingredients": ["Lettuce", "Tomatoes", "Cucumbers", "Onions", "Olive oil", "Balsamic vinegar", "Salt", "Pepper"],
+    "method": "Chop the vegetables. In a small bowl, whisk together olive oil, balsamic vinegar, salt, and pepper. Toss salad with dressing.",
+    "category": "side dish"
+  },
+  {
+    "title": "Chocolate Lava Cake",
+    "ingredients": ["4 oz dark chocolate", "1/2 cup butter", "1 cup powdered sugar", "2 whole eggs", "2 egg yolks", "1/2 cup flour"],
+    "method": "Melt butter and chocolate together. Whisk in sugar, eggs, yolks, and flour. Pour into ramekins. Bake at 425F (220C) for 10-12 minutes until edges are firm but center is runny.",
+    "category": "dessert"
+  }
+]
